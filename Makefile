@@ -1,4 +1,4 @@
-# Makefile for the CITS3003 project running on Linux
+# Makefile for the CITS3003 project running on Linux,
 #
 # Du Huynh
 # April 2016
